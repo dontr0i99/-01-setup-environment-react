@@ -8,7 +8,7 @@ Repository untuk Mata Kuliah ini dibuat di setiap minggu, Repository minggu lain
 [Week 3](https://github.com/dontr0i99/-3-introducing-next)
 
 ## 🚀 Laporan Hasil Praktikum Pada Week ini 
-Laporan Week ini terdapat pada **README** didalam Project yang ada Repository ini dapat di akses di: <br>
+Laporan Week ini terdapat pada **README** didalam Project yang ada pada Repository ini dapat di akses di: <br>
 [LAPORAN WEEK 1](https://github.com/dontr0i99/-01-setup-environment-react/tree/main/belajar-react/hello-world#readme)
 
 ## 📌 Catatan
